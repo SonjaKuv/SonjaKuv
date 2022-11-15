@@ -1,8 +1,6 @@
 <div class="header" align="center">
   <h2>
-    <img src="https://media.giphy.com/media/3rIWm6vhwa4U7BxxBo/giphy.gif" width="80px" height="40px"/>
     Всем привет! Меня зовут Соня Кувшинова
-    <img src="https://media.giphy.com/media/3rIWm6vhwa4U7BxxBo/giphy.gif" width="80px" height="40px"/>
   </h2>
   <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif"  width="200px">
 </div>
