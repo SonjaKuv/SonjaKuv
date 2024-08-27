@@ -1,7 +1,4 @@
 <div class="header" align="center">
-  <h2>
-    Всем привет! Меня зовут Соня Кувшинова
-  </h2>
   <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif"  width="200px">
 </div>
 <div>
