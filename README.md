@@ -4,14 +4,6 @@
   </h2>
   <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif"  width="200px">
 </div>
-<ul><h4>:zap: Обо мне:</h4>
-  <li> :woman_technologist: Я junior Fullstack-разработчик</li> 
-  <li> :woman_scientist: У меня высшее химическое образование, но веб-разработка мне больше по душе</li>
-  <li> :trophy: Прошла курс по веб-разработке от Яндекс.Практикума</li> 
-  <li> :woman_technologist: Работаю младшим разработчиком в компании Теремъ</li> 
-  <li> :pencil: В свободное от работы время ищу и реализовываю интересные задачи, чтобы повысить уровень своих навыков</li> 
-  <li> :dancers: Люблю танцевать, вязать и писать код</li> 
-</ul>
 <div>
   <h4>   :hammer_and_wrench: Мои навыки :</h4>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
